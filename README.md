@@ -149,12 +149,6 @@ const sumit = {
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://flute-musical-app-html.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sumit036-git&repo=Flute-Musical-App-html&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=FF6B6B&text_color=C9D1D9" alt="Flute Musical App"/>
-  </a>
-</p>
-
 <table align="center">
 <tr>
 <td align="center" width="50%">
